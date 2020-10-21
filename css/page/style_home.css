@@ -1,0 +1,12 @@
+.text {
+  padding-right: 50px;
+}
+.block {
+  margin-top: 20px;
+  border-radius: 55px;
+  border: 2px solid #fff;
+  overflow: hidden;
+}
+.block img {
+  width: 300px;
+}
